@@ -1,0 +1,2 @@
+processClover (  {"children":["sample/"],"name":"Clover database Wed Feb 6 2019 09:40:00 IST","stats":{"AvgMethodComplexity":1,"Complexity":1,"ErroneousTests":0,"FailingTests":0,"FilteredElements":0,"PassingTests":0,"PcErroneousTests":-1,"PcFailingTests":-1,"PcPassingTests":-1,"TestExecutionTime":0,"Tests":0,"TotalChildren":1,"TotalPercentageCovered":100,"TotalStatements":1,"UncoveredElements":0},"title":"sample 0.0.1-SNAPSHOT"}
+ ); 
